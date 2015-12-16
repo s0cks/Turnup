@@ -1,0 +1,7 @@
+{
+  "name": "Turnup",
+  "directory": "app/bower_components",
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}
